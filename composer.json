@@ -4,7 +4,8 @@
     "type": "library",
     "require": {
         "php": ">=7.4",
-        "mnemesong/collection-generator": "*"
+        "mnemesong/collection-generator": "*",
+        "psr/http-message": "*"
     },
     "require-dev": {
         "phpunit/phpunit": "*",
